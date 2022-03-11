@@ -1,6 +1,6 @@
 # Hello world Contract
 Written, compiled and deployed to rinkeby testnet with solidity and hardhat
-Rinkeby Contract Address : 0x027F860330812f473797FAdE14eE6E2219a29cA7
+Rinkeby Contract Address : https://rinkeby.etherscan.io/address/0x027F860330812f473797FAdE14eE6E2219a29cA7#code
 
 # Basic Sample Hardhat Project
 
